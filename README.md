@@ -2,7 +2,7 @@
 - 👀 I’m interested in DEV
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on webrtc
-- 📫 How to reach me matthias.lichter@curry-group.com
+- 📫 How to reach me matthias.lichter@curry-solutions.de
 
 ```                      :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
