@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatthiasLichter
-- 👀 I’m interested in DEV
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on webrtc
+- 👀 I’m interested in AI, DeepLearning, Data Science, DevOps, Kubernetes, Save the Planet, Stop the fascists etc.
+- 🌱 I’m currently learning LLMs n stuff
+- 💞️ I’m looking to collaborate on whatever is worth it!
 - 📫 How to reach me matthias.lichter@curry-solutions.de
 
 ```                      :::!~!!!!!:.
